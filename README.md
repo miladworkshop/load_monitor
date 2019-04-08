@@ -2,7 +2,7 @@
 
 Load Monitor
 
-![Load Monitor Widget Preview in Evoution Skin](https://raw.githubusercontent.com/poralix/load_monitor/master/load_monitor_widget.png)
+![Load Monitor Widget Preview in Evoution Skin](https://raw.githubusercontent.com/miladworkshop/load_monitor/master/load_monitor_widget.png)
 
 # Version
 
@@ -30,7 +30,7 @@ Load monitor plugin for Directadmin
 
 ```
 cd /usr/local/directadmin/plugins/
-git clone https://github.com/poralix/load_monitor.git
+git clone https://github.com/miladworkshop/load_monitor.git
 cd load_monitor/scripts/
 ./install.sh
 ```
